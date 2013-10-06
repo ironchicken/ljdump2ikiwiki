@@ -1,0 +1,12 @@
+ljdump2ikiwiki
+==============
+
+I've recently moved my blog from livejounral to an Ikiwiki. I wanted
+to archive all my LJ posts with the right post dates and git commit
+timestamps. I already had a copy of my posts created using Greg
+Hewgill's http://hewgill.com/ljdump/ and I needed a utility to convert
+this XML into Markdown and put it in a repository correctly.
+
+So I wrote a Perl script.
+
+I'm publishing it here in case it's useful to anyone.
